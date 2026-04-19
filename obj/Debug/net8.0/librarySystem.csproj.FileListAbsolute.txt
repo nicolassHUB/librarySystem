@@ -1,0 +1,15 @@
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\bin\Debug\net8.0\librarySystem.exe
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\bin\Debug\net8.0\librarySystem.deps.json
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\bin\Debug\net8.0\librarySystem.runtimeconfig.json
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\bin\Debug\net8.0\librarySystem.dll
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\bin\Debug\net8.0\librarySystem.pdb
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\obj\Debug\net8.0\librarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\obj\Debug\net8.0\librarySystem.AssemblyInfoInputs.cache
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\obj\Debug\net8.0\librarySystem.AssemblyInfo.cs
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\obj\Debug\net8.0\librarySystem.csproj.CoreCompileInputs.cache
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\obj\Debug\net8.0\librarySystem.sourcelink.json
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\obj\Debug\net8.0\librarySystem.dll
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\obj\Debug\net8.0\refint\librarySystem.dll
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\obj\Debug\net8.0\librarySystem.pdb
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\obj\Debug\net8.0\librarySystem.genruntimeconfig.cache
+C:\Users\DOCUMENTOS\Desktop\LibrarySystem\librarySystem\obj\Debug\net8.0\ref\librarySystem.dll
